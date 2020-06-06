@@ -1,2 +1,2 @@
-# Unit-3-Sprint-Challenge-SQL
-This is my repository that houses my Unit3 Sprint Challenge with demo_data.py, demo_data1.py, and the SQLite database.
+# Unit-3-Mod3-TwitOff
+This is repository is a completion of my web application development, where I used Flask for my microframework in deploying a web application using Twitter API.
