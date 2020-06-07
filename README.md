@@ -13,6 +13,11 @@ deactivated current enviornment
 python -m venv pipenv
 pip install....installs all packages
 actavation: pipenv\Scripts\activate
+
+Creating and Migrate the database:
+FLASK_APP=web_app flask db init
+FLASK_APP=web_app flask db migrate
+FLASK_APP=web_app flask db upgrade
 ```
 
 # Usage
